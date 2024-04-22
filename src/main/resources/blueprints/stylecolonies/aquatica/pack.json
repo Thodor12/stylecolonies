@@ -1,0 +1,14 @@
+{
+  "icon": "aquatica.png",
+  "name": "Aquatica",
+  "authors": [
+    "m00b13n"
+  ],
+  "desc": "Subnautica inspired underwater style! Cobbled DioCrete Hell Garunteed! REQUIRES a Deep Ocean to start.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "11",
+  "pack-format": "1"
+}
